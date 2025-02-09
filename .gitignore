@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Allow Identify_Customer_Segments notebook and HTML file
+!Identify_Customer_Segments.ipynb
+!Identify_Customer_Segments.html
+
+# Ignore .gitignore itself
+!.gitignore
